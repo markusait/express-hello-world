@@ -1,5 +1,6 @@
 {
   "name": "hello-world-express",
+  "package-name" : "git+ssh://git@github.com:markusait/express-hello-world.git#master",
   "description": "Hello World test app",
   "version": "0.0.1",
   "private": true,
